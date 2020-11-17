@@ -3,7 +3,6 @@ module github.com/xgen-cloud/mongo-lock
 go 1.13
 
 require (
-	github.com/aws/aws-sdk-go v1.25.38 // indirect
 	github.com/go-test/deep v1.0.1
 	github.com/golang/snappy v0.0.2 // indirect
 	github.com/klauspost/compress v1.11.1 // indirect
