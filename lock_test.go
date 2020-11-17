@@ -16,7 +16,7 @@ import (
 	"github.com/go-test/deep"
 	//"github.com/mongo-go/testdb"
 
-	"github.com/dmichel1/mongo-lock"
+	"github.com/xgen-cloud/mongo-lock"
 )
 
 func random() string {
